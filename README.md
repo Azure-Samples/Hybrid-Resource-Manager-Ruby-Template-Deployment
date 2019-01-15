@@ -4,7 +4,7 @@ platforms: ruby
 author: viananth
 ---
 
-# Deploy an SSH Enabled VM with a Template in Ruby
+# Hybrid-Resource-Manager-Ruby-Template-Deployment
 
 This sample explains how to use Azure Resource Manager templates to deploy your Resources to AzureStack. It shows how to
 deploy your Resources by using the Azure SDK for Ruby.
