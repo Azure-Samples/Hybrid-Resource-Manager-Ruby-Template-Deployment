@@ -1,7 +1,11 @@
 ---
-services: Azure-Stack
-platforms: ruby
-author: viananth
+page_type: sample
+languages:
+- ruby
+products:
+- azure
+description: "This sample explains how to use Azure Resource Manager templates to deploy your Resources to AzureStack."
+urlFragment: Hybrid-Resource-Manager-Ruby-Template-Deployment
 ---
 
 # Hybrid-Resource-Manager-Ruby-Template-Deployment
